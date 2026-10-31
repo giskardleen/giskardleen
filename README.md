@@ -62,7 +62,7 @@ The repository documents six end-to-end validation scenarios and the separation 
 Amazon Web Services Training and Certification  
 Issued October 31, 2026 · Expires October 31, 2027  
 Practical assessment: 6/6 challenges passed.  
-[Verify credential](https://www.credly.com/badges/b339ecfa-deb6-4540-98dd-8f422ec54769/public_url)
+[Verify credential](https://www.credly.com/badges/e0fecadc-ae09-4603-b330-6ec85c85d254/public_url)
 
 [<img src="https://api.accredible.com/v1/credentials/km0j7fhn/artifact/badge" alt="OpenAI Academy Build with Retrieval-Augmented Generation badge" width="150">](https://oaiacademy.credential.net/304a8449-283f-44ed-b39a-0e4f8aeb1a96)
 
@@ -84,7 +84,7 @@ Issued October 24, 2026 · Expires April 24, 2027
 
 **AWS Educate — Machine Learning Foundations**  
 Amazon Web Services · Trained
-
+[Verify credential](https://www.credly.com/badges/b339ecfa-deb6-4540-98dd-8f422ec54769/public_url)
 ### Education
 
 **Future AWS Agent Engineer Nanodegree** — AWS / Udacity  
