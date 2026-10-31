@@ -71,6 +71,13 @@ OpenAI Academy
 Issued October 24, 2026 · Expires April 24, 2027  
 [Verify credential](https://oaiacademy.credential.net/304a8449-283f-44ed-b39a-0e4f8aeb1a96)
 
+### Anthropic Courses — Certificates of Completion
+
+- **[AI Capabilities and Limitations](https://verify.skilljar.com/c/5n98w4i66kw4)** — [View certificate](https://verify.skilljar.com/c/5n98w4i66kw4)
+- **[AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/fzrmfgyz45r4)** — [View certificate](https://verify.skilljar.com/c/fzrmfgyz45r4)
+- **[Introduction to Claude Cowork](https://verify.skilljar.com/c/kw5kxr8bdnnz)** — [View certificate](https://verify.skilljar.com/c/kw5kxr8bdnnz)
+- **[Introduction to Model Context Protocol](https://verify.skilljar.com/c/c6jdmbk2urac)** — [View certificate](https://verify.skilljar.com/c/c6jdmbk2urac)
+
 ### Additional Training
 
 <img src="assets/badges/aws-educate-machine-learning-foundations.png" alt="AWS Educate Machine Learning Foundations badge" width="150">
